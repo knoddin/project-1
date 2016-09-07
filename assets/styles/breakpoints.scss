@@ -1,0 +1,15 @@
+// @import 'breakpoint';
+//
+// body {
+//   @include breakpoint(tiny){ //tiny referenced in breakpoint. at tiny make max-width 100%
+//     max-width: 100%;
+//   }
+//   @include breakpoint(small){
+//     background-color: $red;
+//   }
+//   @include breakpoint(medium){
+//     font-size: $font-size;
+//     font-family: $cursive;
+//     max-width: 100%;
+//   }
+// }
